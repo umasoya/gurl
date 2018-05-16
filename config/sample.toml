@@ -1,0 +1,7 @@
+[request]
+url = https://www.google.com/search
+type = "GET"
+[[request.header]]
+X-Requested-With = XMLHttpRequest
+[[request.params]]
+q = ["keyword1", "keyword2"]

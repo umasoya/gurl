@@ -4,7 +4,8 @@ cURL wrapper command
 
 ## Features
 
-to be written...
+~ The setting priority is `.curlrc < gurl config(json,yaml,toml) < parameters` ~  
+Can use relative url
 
 ## Usage
 
